@@ -87,4 +87,4 @@ Main tables used in the project:
 ## ⚙️ Installation
 1. Download or clone the project:
    ```bash
-   git clone https://github.com/username/order-automation.git
+   git clone https://github.com/AhmetFarukTUNC/orderweb/
