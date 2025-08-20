@@ -72,6 +72,9 @@ Main tables used in the project:
 ![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/9.png)
 ![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/10.png)
 ![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/11.png)
+
+# 📊 For Cashier:
+
 ![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/12.png)
 ![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/13.png)
 ![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/14.png)
