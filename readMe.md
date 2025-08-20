@@ -57,14 +57,8 @@ Main tables used in the project:
 ---
 
 ## 📸 Screenshots
-### User Panel
+
 ![User Panel](./assets/screenshots/user-panel.png)
-
-### Admin Panel
-![Admin Panel](./assets/screenshots/admin-panel.png)
-
-### Order Management (Admin)
-![Order Management](./assets/screenshots/orders.png)
 
 ---
 
