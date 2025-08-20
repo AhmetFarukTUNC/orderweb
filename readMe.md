@@ -57,7 +57,7 @@ Main tables used in the project:
 ---
 
 ## 📸 Screenshots
-![User Panel]()
+![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-20%20183229.png)
 ![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/1.png)
 ![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/2.png)
 ![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/3.png)
