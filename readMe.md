@@ -58,7 +58,23 @@ Main tables used in the project:
 
 ## 📸 Screenshots
 
-![User Panel](./assets/screenshots/user-panel.png)
+![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/1.png)
+![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/2.png)
+![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/3.png)
+![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/4.png)
+![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/5.png)
+![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/6.png)
+![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/7.png)
+![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/8.png)
+![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/9.png)
+![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/10.png)
+![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/11.png)
+![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/12.png)
+![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/13.png)
+![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/14.png)
+![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/15.png)
+![User Panel](https://github.com/AhmetFarukTUNC/orderweb/blob/main/images/16.png)
+
 
 ---
 
